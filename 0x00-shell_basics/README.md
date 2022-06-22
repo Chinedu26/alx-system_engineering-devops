@@ -16,3 +16,4 @@ command that copies html files
 command that moves files beginning with uppercase letter
 command that deletes files in the current working directory
 command that creates the directory welcome to school
+commandthat lists files and directories of the current directory separated by comma
