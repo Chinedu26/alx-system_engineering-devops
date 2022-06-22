@@ -13,3 +13,4 @@ the command that lists all files including hidden files in long format in multip
 command that prints the file type
 command to create a symbolic link
 command that copies html files
+command that moves files beginning with uppercase letter
