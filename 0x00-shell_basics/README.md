@@ -3,3 +3,4 @@ The ls command displays the content list of your current directory
 The cd command changes the working directory to the user home directory.
 display contentof directory in long format
 the command to display directory contents including hidden files with long format
+command to display directory content with long format, hidden files and user and group ids displayed numerically
