@@ -7,3 +7,4 @@ command to display directory content with long format, hidden files and user and
 command that creates a directory in another directory
 Move the file betty
 command to delete a file
+command to delete a directory
