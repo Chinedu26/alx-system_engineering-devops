@@ -14,3 +14,4 @@ command that prints the file type
 command to create a symbolic link
 command that copies html files
 command that moves files beginning with uppercase letter
+command that deletes files in the current working directory
