@@ -12,3 +12,4 @@ command that changes working directory to the previous one
 the command that lists all files including hidden files in long format in multiple directories
 command that prints the file type
 command to create a symbolic link
+command that copies html files
