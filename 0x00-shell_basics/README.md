@@ -5,3 +5,4 @@ display contentof directory in long format
 the command to display directory contents including hidden files with long format
 command to display directory content with long format, hidden files and user and group ids displayed numerically
 command that creates a directory in another directory
+Move the file betty
