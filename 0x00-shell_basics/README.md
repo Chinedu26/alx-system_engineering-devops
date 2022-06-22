@@ -10,3 +10,4 @@ command to delete a file
 command to delete a directory
 command that changes working directory to the previous one
 the command that lists all files including hidden files in long format in multiple directories
+command that prints the file type
