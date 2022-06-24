@@ -13,3 +13,4 @@ A command that sets the mode of the file hello the same as Olleh`s mode
 A command that adds execute permission to all subdirectories of the current working directory for the owner, groupowner and all the other users
 A command that creates a directory called my_dir with permissions 751 in the working directory
 A command that changes the group owner to school for the file hello
+A command that changes the owner to vincent and the group to staff for all files and directories in the working directory
