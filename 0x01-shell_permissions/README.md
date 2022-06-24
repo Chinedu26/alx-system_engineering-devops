@@ -16,5 +16,6 @@ A command that changes the group owner to school for the file hello
 A command that changes the owner to vincent and the group to staff for all files and directories in the working directory
 A command that the owner and group owner of _hello to vincent and staff respectively
 A command that changes the owner of the file hello to betty, only if it is owned by the user guillaume
+A command that will play StarWarsIV episode in the terminal
 
 
