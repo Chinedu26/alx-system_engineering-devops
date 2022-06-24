@@ -14,3 +14,6 @@ A command that adds execute permission to all subdirectories of the current work
 A command that creates a directory called my_dir with permissions 751 in the working directory
 A command that changes the group owner to school for the file hello
 A command that changes the owner to vincent and the group to staff for all files and directories in the working directory
+A command that the owner and group owner of _hello to vincent and staff respectively
+
+
