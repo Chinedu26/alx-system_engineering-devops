@@ -7,3 +7,4 @@ A command that creates an empty file called hello
 A command that adds execute permission to the owner of the file hello
 A command that adds execute permissions to the user and group owner and read permission to other users, to the file hello
 A command that adds execute permission to the user, the group owner and other users to the file hello
+A command that sets the permission to file hello as no permissions at all for the owner and group owner and all permissions to other users
