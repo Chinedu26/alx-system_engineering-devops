@@ -9,3 +9,4 @@ A command that adds execute permissions to the user and group owner and read per
 A command that adds execute permission to the user, the group owner and other users to the file hello
 A command that sets the permission to file hello as no permissions at all for the owner and group owner and all permissions to other users
 A command that sets the mode of the file hello to -rwxr-x-wx
+A command that sets the mode of the file hello the same as Olleh`s mode
