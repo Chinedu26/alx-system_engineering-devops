@@ -16,3 +16,4 @@ A script that takes a list of words as input and prints only words that appear o
 A script that display lines containing the pattern "root" from a file
 A script that displays the number of lines that contain the pattern "bin" in a file
 A script that displays lines containing the pattern "root" and 3 lines after them
+A script that displays all the lines in a file that do not contain the pattern "bin"
