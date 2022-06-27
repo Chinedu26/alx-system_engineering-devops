@@ -24,4 +24,5 @@ A script that reverse its input
 A script that displays all users and their home directories, sorted bu users
 A script that finds all empty files and directories in the current directory andall subdirectories
 A script that lists all the files with a.gif extension in the current director and all its sub directories
-A script that decodes acrostics  
+A script that decodes acrostics
+A script that parses web servers log in TSV format as input and displays the 11 hosts or IP addresses which did the most requests  
