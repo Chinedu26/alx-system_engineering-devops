@@ -18,3 +18,4 @@ A script that displays the number of lines that contain the pattern "bin" in a f
 A script that displays lines containing the pattern "root" and 3 lines after them
 A script that displays all the lines in a file that do not contain the pattern "bin"
 A script that displays the lines of a file starting with a letter, even capital letter
+A script that replaces all characters A and c from input to z and e respectively
