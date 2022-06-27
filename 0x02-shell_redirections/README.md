@@ -22,3 +22,4 @@ A script that replaces all characters A and c from input to z and e respectively
 A script that removes all letters c and C from input
 A script that reverse its input
 A script that displays all users and their home directories, sorted bu users
+A script that finds all empty files and directories in the current directory andall subdirectories
