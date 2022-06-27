@@ -9,3 +9,4 @@ A script that displays the third line of a specified file
 A script that creates a file with the text best school
 A script that writes the result of a command into a file
 A script that duplicates the last line of a file
+A script that deletes all .js extension in the current directory and all its subfolders
