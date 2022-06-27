@@ -1,3 +1,4 @@
 This directory contains various scripts used for shell redirections
 A script that prints "Hello, World"
 A script that displays a confused emoji
+A script to display the contents of a file
