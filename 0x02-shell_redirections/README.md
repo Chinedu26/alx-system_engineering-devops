@@ -14,4 +14,5 @@ A script that counts the number of directories and sub directories in the curren
 A script that displays the ten newest files in the current directory
 A script that takes a list of words as input and prints only words that appear only once
 A script that display lines containing the pattern "root" from a file
+A script that displays the number of lines that contain the pattern "bin" in a file
 
