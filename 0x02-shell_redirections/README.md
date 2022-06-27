@@ -5,3 +5,4 @@ A script to display the contents of a file
 A script that displays the content of two files
 A script that displays the last ten lines of a file
 A script that displays the first ten lines of a file
+A script that displays the third line of a specified file
