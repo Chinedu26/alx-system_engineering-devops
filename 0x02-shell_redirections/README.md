@@ -20,3 +20,4 @@ A script that displays all the lines in a file that do not contain the pattern "
 A script that displays the lines of a file starting with a letter, even capital letter
 A script that replaces all characters A and c from input to z and e respectively
 A script that removes all letters c and C from input
+A script that reverse its input
