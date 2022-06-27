@@ -13,3 +13,5 @@ A script that deletes all .js extension in the current directory and all its sub
 A script that counts the number of directories and sub directories in the current directory
 A script that displays the ten newest files in the current directory
 A script that takes a list of words as input and prints only words that appear only once
+A script that display lines containing the pattern "root" from a file
+
