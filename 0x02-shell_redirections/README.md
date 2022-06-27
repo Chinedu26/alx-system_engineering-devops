@@ -10,4 +10,5 @@ A script that creates a file with the text best school
 A script that writes the result of a command into a file
 A script that duplicates the last line of a file
 A script that deletes all .js extension in the current directory and all its subfolders
-A script that counts the number of directories and sub directories i the current directory
+A script that counts the number of directories and sub directories in the current directory
+A script that displays the ten newest files in the current directory
