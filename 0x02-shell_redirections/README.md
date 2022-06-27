@@ -19,3 +19,4 @@ A script that displays lines containing the pattern "root" and 3 lines after the
 A script that displays all the lines in a file that do not contain the pattern "bin"
 A script that displays the lines of a file starting with a letter, even capital letter
 A script that replaces all characters A and c from input to z and e respectively
+A script that removes all letters c and C from input
