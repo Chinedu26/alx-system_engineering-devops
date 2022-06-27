@@ -7,3 +7,4 @@ A script that displays the last ten lines of a file
 A script that displays the first ten lines of a file
 A script that displays the third line of a specified file
 A script that creates a file with the text best school
+A script that writes the result of a command into a file
