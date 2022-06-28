@@ -10,3 +10,4 @@ A script that creates a global variable
 A scripts that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 A script that prints the result of POWER divided by DIVIDE
 A script that prints the result of breath to the power of love
+A script that converts from base two to base ten
