@@ -14,3 +14,4 @@ A script that converts from base two to base ten
 A script that prints all the posssible combination of two letters except oo
 A script that prints a number with two decimal places
 A script that converts from decimal to hexadecimal
+A script that encodes and decodes text using the rot 13 encryption. Assume ASCII
