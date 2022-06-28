@@ -6,4 +6,4 @@ A script that counts the number of directories in the path
 A script that lists environmental variables
 A script that lists all local variables and environment variables and functions
 A script that creates a new local variable
-
+A script that creates a global variable
