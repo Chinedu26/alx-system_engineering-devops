@@ -7,3 +7,4 @@ A script that lists environmental variables
 A script that lists all local variables and environment variables and functions
 A script that creates a new local variable
 A script that creates a global variable
+A scripts that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
