@@ -13,3 +13,4 @@ A script that prints the result of breath to the power of love
 A script that converts from base two to base ten
 A script that prints all the posssible combination of two letters except oo
 A script that prints a number with two decimal places
+A script that converts from decimal to hexadecimal
