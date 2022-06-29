@@ -16,3 +16,4 @@ A script that prints a number with two decimal places
 A script that converts from decimal to hexadecimal
 A script that encodes and decodes text using the rot 13 encryption.Assume ASCII
 A script that print every other line from input, starting with the first line
+A script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
